@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React price card Task
+in this task, I have used Bootstrap 
+prop passing is used
+below is the link for screenshot
+![Screenshot (76)](https://github.com/arun2352000/React_Price_Card_Task/assets/141598450/6b407e5b-4b28-483d-8b26-edd5af6800f5)
